@@ -1,0 +1,2 @@
+# WPFLauncherUpdateLog
+详细记录网易我的世界启动器更新日志
