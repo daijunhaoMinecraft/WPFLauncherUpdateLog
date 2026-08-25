@@ -2,8 +2,6 @@
 ```
 1.修复若干问题，优化平台体验。
 ```
-<br/>
-更新日志<br/>
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/511821ee-cc70-4caa-ab7d-c10ba5052eca" />
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/b66d032e-5a54-4101-a22a-0c293b386b18" />
 <img width="1920" height="1040" alt="image" src="https://github.com/user-attachments/assets/0c6e91af-05d9-40f2-af2e-94fa62aed879" />
